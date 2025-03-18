@@ -26,7 +26,7 @@ With **fast inference** and **high accuracy**, this model helps in **busting dee
 Built with **MobileNetV4-Small** for a **perfect blend of speed & accuracy**! ⚡  
 🔹 **Lightweight Convolutions** - Faster computations with **depthwise separable convolutions**.  
 🔹 **Feature Extraction** - Efficiently captures **deepfake artifacts**.  
-🔹 **Fully Connected Layers** - Classifies images as **Real** ✅ or **Fake** ❌ using **Softmax activation**.  
+🔹 **Fully Connected Layers** - Classifies images as **Real**  or **Fake**  using **Softmax activation**.  
 
 💡 **Why MobileNetV4-Small?**  
 ✔️ **Compact & Efficient** – Perfect for real-time applications.  
